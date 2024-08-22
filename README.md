@@ -1,1 +1,2 @@
-# Welcome
+# About Me
+# Hi, my name is Kiefer Jenny. I am a student at the University of North Carolina at Charlotte. My degree is in Computer Science with a concentration in Data Science. In my spare time, I enjoy playing guitar, watching sports, and lifting weights.
